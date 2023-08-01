@@ -1,5 +1,3 @@
-/* style.css */
-
 /* Global Styles */
 
 body {
@@ -206,6 +204,18 @@ button:hover {
 
     button {
         margin: 5px;
+    }
+
+    /* Adjust the font size and padding for weather data */
+    #weatherData {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    /* Adjust the grid columns for forecast items */
+    .forecast-container {
+        grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+        gap: 10px;
     }
 }
 
