@@ -1,7 +1,4 @@
 # Weather App
-
-![Weather App Screenshot](app_screenshot.png)
-
 ## Table of Contents
 
 - [Description](#description)
